@@ -1,8 +1,12 @@
 import './App.css';
+import Gym from './components/Gym/Gym';
+import Title from './components/Title/Title';
 
 function App() {
   return (
-    <div className="App">
+    <div>
+      <Title></Title>
+      <Gym></Gym>
 
     </div>
   );

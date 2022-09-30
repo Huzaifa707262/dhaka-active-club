@@ -1,0 +1,39 @@
+.activity img {
+    width: 250px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 10px;
+
+}
+
+.activity {
+    width: 260px;
+    height: 380px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    background-color: azure;
+    box-shadow: 4px 4px 5px #b79c9c;
+    position: relative;
+}
+
+.info {
+    margin-left: 5px;
+}
+
+.btn {
+    width: 100%;
+    background: burlywood;
+    color: black;
+    font-size: 20px;
+    border: none;
+    border-radius: 3px;
+    padding-top: 3px;
+    position: absolute;
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn:hover {
+    background-color: orange;
+}

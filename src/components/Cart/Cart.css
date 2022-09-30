@@ -1,0 +1,47 @@
+.cart {
+    position: sticky;
+    top: 0;
+    padding: 28px 23px;
+}
+
+.measure {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    margin: 10px;
+    background-color: lightslategrey;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+
+.button {
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.exercise-time {
+    background-color: darkcyan;
+    padding-left: 10px;
+    border-radius: 5px;
+
+}
+
+.bu {
+    width: 100%;
+    background: #0514f1;
+    color: aliceblue;
+    font-size: 20px;
+    border: none;
+    border-radius: 3px;
+    padding-top: 3px;
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.bu:hover {
+    background-color: purple;
+}
